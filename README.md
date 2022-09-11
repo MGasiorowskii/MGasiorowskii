@@ -4,8 +4,8 @@
 - 💻 Current job position -> Software Systems Test Engineer
 - 📈 I’m currently learning -> Django, Django REST
 - 🎓 Studying -> Mentoring in Devs-Mentoring
-  - [ ] Master's degree in Industrial Automation and Building Automation (thesis defense)
-  - [x] Engineer's degree in Electrical Engineering
+  - [ ] Master's degree in Automatics of Industry and Buildings (thesis defense)
+  - [x] Bachelor of Science degree in Electrical Engineering
 - 😎 I’m interested in -> 📕 Personal Development 📈 Sport Activities
 
 - 📫 How to reach me ->  gasiorowskii.mateusz@gmail.com
