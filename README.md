@@ -9,7 +9,7 @@
 - 😎 I’m interested in -> 📕 Personal Development 📈 Sport Activities
 
 - 📫 How to reach me ->  gasiorowskii.mateusz@gmail.com
-- 📄 Know about my experiences -> [Resume](link)
+- 📄 Know about my experiences -> [Resume](Resume - Python Developer.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -30,9 +30,9 @@
    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a>
-   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">   
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
