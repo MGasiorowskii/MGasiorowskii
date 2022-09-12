@@ -9,8 +9,7 @@
 - 😎 I’m interested in -> 📕 Personal Development 📈 Sport Activities
 
 - 📫 How to reach me ->  gasiorowskii.mateusz@gmail.com
-- 📄 Know about my experiences -> [Resume](Resume - Python Developer.pdf)
-
+- 📄 Know about my experiences -> [Resume](/Resume%20-%20Python%20Developer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 
