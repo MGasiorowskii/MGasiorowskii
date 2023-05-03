@@ -1,10 +1,10 @@
 ### Hi there, I'm  Mateusz👋
-## Python Developer/Software Tester
+## Python Developer/Django
 
 <img align="right" alt="Codin-GIF" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 💻 Current job position -> Software Systems Test Engineer
-- 📈 I’m currently learning -> Django, Django REST
+- 💻 Current job position -> Junior Software Developer (Django)
+- 📈 I’m currently learning -> HTML, CSS, JavaScript
 - 🎓 Studying -> Mentoring in Devs-Mentoring
   - [ ] Master's degree in Automatics of Industry and Buildings (thesis defense)
   - [x] Bachelor of Science degree in Electrical Engineering
