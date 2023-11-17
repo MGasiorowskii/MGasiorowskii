@@ -3,15 +3,17 @@
 
 <img align="right" alt="Codin-GIF" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 💻 Current job position -> Junior Software Developer (Django)
-- 📈 I’m currently learning -> HTML, CSS, JavaScript
-- 🎓 Studying -> Mentoring in Devs-Mentoring
+- 💻 Current job position
+  - Software Developer (Django)
+  - Programming Mentor (Python, Django)
+- 📈 I’m currently learning -> Microservices
+- 🎓 Studying
   - [ ] Master's degree in Automatics of Industry and Buildings (thesis defense)
   - [x] Bachelor of Science degree in Electrical Engineering
 - 😎 I’m interested in -> 📕 Personal Development 📈 Sport Activities
 
 - 📫 How to reach me ->  gasiorowskii.mateusz@gmail.com
-- 📄 Know about my experiences -> [Resume](/Resume%20-%20Python%20Developer.pdf)
+- 📄 Know about my experiences -> [Resume](/Mateusz_Gasiorowski-Python_Developer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 
