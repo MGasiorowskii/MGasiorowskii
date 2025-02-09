@@ -23,10 +23,14 @@
   <img src="https://cdn.worldvectorlogo.com/logos/sqlalchemy.svg" alt="SQLAlchemy" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/celery.svg" alt="Celery" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="50" height="50"/>
 </p>
+
+---
+### 📄 Resume:
+📜 *Because even APIs need a CV!* 📝😄  
+[![Resume](https://img.shields.io/badge/View%20Resume-Click%20Here-blue)](Mateusz_Gasiorowski_Python_Developer.pdf)
 
 ---
 ### 📫 Connect with Me:
