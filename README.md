@@ -9,7 +9,7 @@
   - Software Developer (Python, Django)
   - Programming Mentor (Python, Django)
   - Freelancer (Python, FastAPI, SQLAlchemy, Crypto)
-- 🎯 **Currently Learning:** Scalable Architecture & IaC & AI
+- 🎯 **Currently Learning:** Scalable Architecture & IaC & AI & GO
 - 🎓 **Education:**
   - 🏗️ Master's degree in Industrial & Building Automation (Completed)
   - 🎓 BSc in Electrical Engineering (Completed)
@@ -25,6 +25,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/go-5.svg" alt="GO" width="50" height="50"/>
 </p>
 
 ---
